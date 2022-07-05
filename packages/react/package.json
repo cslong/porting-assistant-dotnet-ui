@@ -65,7 +65,7 @@
     "csv-stringify": "^5.5.0",
     "electron": "^10.4.7",
     "immer": "^6.0.1",
-    "re-reselect": "^3.4.0",
+    "re-reselect": "^4.0.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-error-boundary": "^2.3.2",
